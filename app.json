@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "jobFn",
-    "slug": "jobFn"
+    "slug": "jobFn",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ce9d76c0-d696-4096-b0e8-d6f9e1ee7e4c"
+      }
+    },
+    "android": {
+      "package": "com.sagar4328.jobFn"
+    }
   }
 }
